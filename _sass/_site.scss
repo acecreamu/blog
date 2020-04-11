@@ -322,7 +322,7 @@ body {
     &:hover {
       color: $base-color;
       text-decoration: none;
-      background-color: $background-over-color;
+      background-color: $color-alabaster;
       border-color: transparent;
       }
   }
@@ -337,7 +337,7 @@ body {
       padding: 0.1rem;
 
       &:hover {
-          background-color: $background-over-color;
+          background-color: $color-alabaster;
           border-color: transparent;
       }
 
