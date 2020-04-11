@@ -35,8 +35,8 @@ disqus:
   id:               "kiko-plus"
 
 # URL
-url:              https://acecreamu.github.io/blog2
-baseurl:          /
+url:              "https://acecreamu.github.io/blog2"
+baseurl:          "/"
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
