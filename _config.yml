@@ -57,7 +57,7 @@ nav:
   - name:           "Home"
     url:            "https://acecreamu.github.io"
   - name:           "About me"
-    url:            "/about"
+    url:            "https://acecreamu.github.io/about"
   - name:           "Archive"
     url:            "/archive"
   - name:           "Tags"
