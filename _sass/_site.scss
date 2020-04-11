@@ -18,7 +18,7 @@ body {
 
 .content-container {
   max-width: 48rem;
-  padding: 5rem 1rem;
+  padding: 8rem 1rem;
   margin-left:  auto;
   margin-right: auto;
 
@@ -39,9 +39,9 @@ body {
     font-family: $fancy-font;
     font-style: italic;
     margin: 0.3em 0;
-    font-size: 2.25em;
+    font-size: 2.2em;
     line-height: 1.2em;
-    font-weight: 300;
+    font-weight: 100;
 
     a {
       color: $base-color;
@@ -78,9 +78,9 @@ body {
 .header-small {
   text-align: left;
   margin-bottom: .75rem;
-  font-size: .75rem;
-  font-weight: 600;
-  text-transform: uppercase;
+  font-size: 1rem;
+  font-weight: 200;
+  font-style: italic;
 
   a {
     color: $base-color;
@@ -206,7 +206,7 @@ body {
     &-title {
       font-family: $fancy-font;
       margin-bottom: .3rem;
-      font-size : 1.8rem;
+      font-size : 2rem;
       font-weight: 600;
     }
 
