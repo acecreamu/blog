@@ -35,9 +35,8 @@ disqus:
   id:               "kiko-plus"
 
 # URL
-url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
-# url:                "http://localhost:4000" # use this url when you develop
-baseurl:            "/Kiko-plus" # the subpath of your site, e.g. /blog
+url:              https://acecreamu.github.io/blog
+baseurl:          /
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
