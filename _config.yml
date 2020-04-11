@@ -13,7 +13,7 @@ author:
   github:           acecreamu
   #stackoverflow:    your-id
   #quora:            your-id
-  #linkedin:         your-id
+  linkedin:         sidorovoleksii
   #pinterest:        your-id
   #googlePlus:       your-id
   instagram:        acecreamu
@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "acecreamu"
+  id:               "sidorov_oleksii"
 
 # URL
 url:              "https://acecreamu.github.io/blog"
