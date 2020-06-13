@@ -21,3 +21,5 @@ Work a lot and earn a lot is normal. Work a little and earn a little is normal. 
 ---
 
 Unfortunately (?) the world and people do not follow the logic. We are still upset when not getting good results, even though we didn't make anything for it, and we are happy when achieving something, even when we paid the full price for it with our time and our work.
+
+---
