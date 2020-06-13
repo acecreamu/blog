@@ -35,4 +35,4 @@ The fisherman replied, “Well, I usually wake up early in the morning, go out t
 
 > The fisherman continues, “And after that?” The businessman laughs heartily, “After that, you can live like a king in your own house, and when the time is right, you can go public and float your shares in the Stock Exchange, and you will be rich.” The fisherman asks, “And after that?” The businessman says, “After that, you can finally retire, you can move to a house by the fishing village, wake up early in the morning, catch a few fish, then return home to play with kids, have a nice afternoon nap with your wife, and when evening comes, you can join your buddies for a drink, play the guitar, sing and dance throughout the night!” The fisherman was puzzled, “Isn’t that what I am doing now?”
 
-It may happen that eating good food and lying on a sofa actually creates more profit than working on a difficult task.
+It may happen that eating good food and lying on a sofa actually creates more profit than working on a difficult task, depending on what to consider a profit.
