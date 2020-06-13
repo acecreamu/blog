@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thoughts about rational behavior"
-description: "Something I have saved from my University times when I was interested in philosophy. Part 2."
+description: "Something I have saved from my University times when I was interested in philosophy. Part 2. The most important part for me."
 date: 2016-09-02
 tags: [thoughts, philosophy, logic, rationality, happiness]
 comments: true
