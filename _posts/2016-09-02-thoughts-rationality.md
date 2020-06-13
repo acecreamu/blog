@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thoughts about rational behavior"
-description: "Something I have saved from my University times when I was interested in philosophy."
+description: "Something I have saved from my University times when I was interested in philosophy. Part 2."
 date: 2016-09-02
 tags: [thoughts, philosophy, logic, rationality, happiness]
 comments: true
@@ -10,7 +10,7 @@ share: true
 
 Rational behavior is defined and driven by a goal. If there is no such a goal we can't judge rational our actions or not.
 
-P.S. Re-writing it now, in 2020, I actually disagree with it, as rationality for me now is more like logic -- the set of abstract rules which are valid regardless of the setting. Although I understand that in that case, I was thinking more about practical rationality, like, is it rational to buy a Porsche or not? In such a case it's really defined by our goals and whether a given action will bring us closer to the goal.
+*P.S.* Re-writing it now, in 2020, I actually disagree with it, as rationality for me now is more like logic -- the set of abstract rules which are valid regardless of the setting. Although I understand that in that case, I was thinking more about practical rationality, like, is it rational to buy a Porsche or not? In such a case it's really defined by our goals and whether a given action will bring us closer to the goal.
 
 ---
 
