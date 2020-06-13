@@ -14,9 +14,9 @@ Rational behavior is defined and driven by a goal. If there is no such a goal we
 
 ---
 
-We always seek the greatest pleasure. When we categorize the behavior as rational (reasons) or sensual (desires) and start acting rational, we just limit the one set of desires (smaller, simpler joys) in favor of others (longer, larger goals). Therefore, all our rationally turns out to be based on larger sensuality and larger desires.
+We always seek the greatest pleasure. When we categorize the behavior as rational (reasons) or sensual (desires) and start acting rational, we just limit the one set of desires (smaller, simpler joys) in favor of others (longer, larger goals). Therefore, all our rationally turns out to be based on larger emotionality and deeper desires.
 
-Does it make sense to sacrifice one desires for the sake of others? Is the value of one large goal really greater than the value of hundreds of smaller desires?
+Does it make sense to sacrifice one desires for the sake of others? Is the value of one large goal really greater than the cumulative value of hundreds of smaller desires?
 
 ---
 
@@ -36,5 +36,19 @@ The fisherman replied, “Well, I usually wake up early in the morning, go out t
 > The fisherman continues, “And after that?” The businessman laughs heartily, “After that, you can live like a king in your own house, and when the time is right, you can go public and float your shares in the Stock Exchange, and you will be rich.” The fisherman asks, “And after that?” The businessman says, “After that, you can finally retire, you can move to a house by the fishing village, wake up early in the morning, catch a few fish, then return home to play with kids, have a nice afternoon nap with your wife, and when evening comes, you can join your buddies for a drink, play the guitar, sing and dance throughout the night!” The fisherman was puzzled, “Isn’t that what I am doing now?”
 
 It may happen that eating good food and lying on a sofa actually creates more profit than working on a difficult task, depending on what to consider a profit.
+
+---
+
+We (me in particular) often can suppress some desires (*aka* control the emotions) in favor of more rational (useful, optimal) things. But why and for what? After all, our level of satisfaction from life, our level of happiness, is formed exactly by emotions and feelings.
+
+But on the other hand, one can be happy from working and being productive and can be sad while following all the desires. 
+
+Should we suppress our desires, or shouldn't we? 
+
+Some ancient dudes considered control over natural desires to be a manifestation of the soul. While the absence of such control and blind following the desires correspond to the absence of it.
+
+---
+
+I don't choose between what I **have** to do and what I **want** to do. I only choose between shallow and deep desires.
 
 ---
