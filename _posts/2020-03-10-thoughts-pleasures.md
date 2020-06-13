@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thoughts about short and long pleasures"
+title: "Thoughts about short- and long-term pleasures"
 description: "Not all the pleasures are created equal."
 date: 2020-03-10
 tags: [thoughts, philosophy, logic, pleasure, rationality]
