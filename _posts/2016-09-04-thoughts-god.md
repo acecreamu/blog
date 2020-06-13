@@ -20,6 +20,6 @@ share: true
 
 ---
 
-Five Ways of Thomas Aquinas.
+[Five Ways of Thomas Aquinas](http://web.mnstate.edu/gracyk/courses/web%20publishing/aquinasfiveways_argumentanalysis.htm).
 
 ---
