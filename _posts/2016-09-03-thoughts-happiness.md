@@ -3,7 +3,7 @@ layout: post
 title: "Thoughts about happiness"
 description: "Something I have saved from my University times when I was interested in philosophy. Part 3."
 date: 2016-09-03
-tags: [thoughts, philosophy, logic, hapiness]
+tags: [thoughts, philosophy, logic, happiness]
 comments: true
 share: true
 ---
