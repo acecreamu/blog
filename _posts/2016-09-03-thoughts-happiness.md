@@ -24,18 +24,5 @@ We treat it as a routine, although it's not a routine, it's a great gift of the 
 
 ---
 
-We (me in particular) often can suppress some desires (*aka* control the emotions) in favor of more rational (useful, optimal) things. But why and for what? After all, our level of satisfaction from life, our level of happiness, is formed exactly by emotions and feelings.
-
-But on the other hand, one can be happy from working and being productive and can be sad while following all the desires. 
-
-Should we suppress our desires, or shouldn't we? 
-
-Some ancient dudes considered control over natural desires to be a manifestation of the soul. While the absence of such control and blind following the desires correspond to the absence of it.
-
----
-
-I don't choose between what I **have** to do and what I **want** to do. I only choose between shallow and deep desires.
-
----
 
 
