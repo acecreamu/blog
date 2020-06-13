@@ -12,7 +12,7 @@ You can't be happy when you work a lot. When you work a lot, what you can get in
 
 Doing nothing, or just with no efforts, on the other hand, in the worst case will bring you what you deserve -- nothing. Achieving nothing won't upset you, because that's expected (and also you've spend a good time full of fun while doing it). Whereas in the best case you nay get some nice results which in this case will be perceived positively by you, i.e. unfair benefits in your favor.
 
-Efforts = 0 or -1. No efforts = 0 or +1. 
+Efforts => 0 or -1. No efforts => 0 or +1. 
 
 ---
 
