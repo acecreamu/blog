@@ -20,7 +20,7 @@ Does it make sense to sacrifice one desires for the sake of others? Is the value
 
 ---
 
-The last thought is very soundalike like famouse story by Pablo Coelho:
+The last thought is very resembling with this famous story about Fisherman and Businessman by Pablo Coelho:
 
 > There was once a businessman who was sitting by the beach in a small Brazilian village.
 As he sat, he saw a Brazilian fisherman rowing a small boat towards the shore having caught quite few big fish.
@@ -34,3 +34,5 @@ The fisherman replied, “Well, I usually wake up early in the morning, go out t
 > The businessman offered a suggestion to the fisherman. “I am a PhD in business management. I could help you to become a more successful person. From now on, you should spend more time at sea and try to catch as many fish as possible. When you have saved enough money, you could buy a bigger boat and catch even more fish. Soon you will be able to afford to buy more boats, set up your own company, your own production plant for canned food and distribution network. By then, you will have moved out of this village and to Sao Paulo, where you can set up HQ to manage your other branches.”
 
 > The fisherman continues, “And after that?” The businessman laughs heartily, “After that, you can live like a king in your own house, and when the time is right, you can go public and float your shares in the Stock Exchange, and you will be rich.” The fisherman asks, “And after that?” The businessman says, “After that, you can finally retire, you can move to a house by the fishing village, wake up early in the morning, catch a few fish, then return home to play with kids, have a nice afternoon nap with your wife, and when evening comes, you can join your buddies for a drink, play the guitar, sing and dance throughout the night!” The fisherman was puzzled, “Isn’t that what I am doing now?”
+
+It may happen that eating good food and lying on a sofa actually creates more profit than working on a difficult task.
