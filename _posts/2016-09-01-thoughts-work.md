@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Thoughts about work, efforts, and logic"
-description: "Something I have saved from my University times when I was interested in philosophy."
+description: "Something I have saved from my University times when I was interested in philosophy. Part 1."
 date: 2016-09-01
 tags: [thoughts, philosophy, logic, work]
 comments: true
 share: true
 ---
 
-You can't be happy when you work a lot. When you work a lot, what you can get in the best case is what you deserve. Obtaining good results won't be positive, it will be normal, it will be the expected output. However, in the worst case, you will not get good results (because of the many reasons, the world is never fair) and in that case, it will be negative. i.e. feels like unfair harm against you. 
+You can't be happy when you work a lot. When you work a lot, what you can get in the best case is what you deserve. Obtaining good results won't be positive, it will be normal, it will be the expected output. However, in the worst case, you will not get good results (because of the many reasons, the world is never fair) and in that case, it will be negative. *i.e.* feels like unfair harm against you. 
 
 Doing nothing, or just with no efforts, on the other hand, in the worst case will bring you what you deserve -- nothing. Achieving nothing won't upset you, because that's expected (and also you've spend a good time full of fun while doing it). Whereas in the best case you nay get some nice results which in this case will be perceived positively by you, i.e. unfair benefits in your favor.
 
