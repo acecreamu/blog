@@ -8,21 +8,13 @@ comments: true
 share: true
 ---
 
-You can't be happy when you work a lot. When you work a lot, what you can get in the best case is what you deserve. Obtaining good results won't be positive, it will be normal, it will be the expected output. However, in the worst case, you will not get good results (because of the many reasons, the world is never fair) and in that case, it will be negative. i.e. feels like unfair harm against you. 
+Rational behavior is defined and driven by a goal. If there is no such a goal we can't judge rational our actions or not.
 
-Doing nothing, or just with no efforts, on the other hand, in the worst case will bring you what you deserve -- nothing. Achieving nothing won't upset you, because that's expected (and also you've spend a good time full of fun while doing it). Whereas in the best case you nay get some nice results which in this case will be perceived positively by you, i.e. unfair benefits in your favor.
-
-Efforts = 0 or -1. No efforts = 0 or +1. 
+P.S. Re-writing it now, in 2020, I actually disagree with it, as rationality for me now is more like logic -- the set of abstract rules which are valid regardless of the setting. Although I understand that in that case, I was thinking more about practical rationality, like, is it rational to buy a Porsche or not? In such a case it's really defined by our goals and whether a given action will bring us closer to the goal.
 
 ---
 
-Work a lot and earn a lot is normal. Work a little and earn a little is normal. Work a little and earn a lot is a success. Work a lot and earn a little is a failure.
+We always seek the greatest pleasure. When we categorize the behavior as rational (reasons) or sensual (desires) and start acting rational, we just limit the one set of desires (smaller, simpler joys) in favor of others (longer, larger goals). Therefore, all our rationally turns out to be based on larger sensuality and larger desires.
 
----
+Does it make sense to sacrifice one desires for the sake of others? Is the value of one large goal really greater than the value of hundreds of smaller desires?
 
-Unfortunately (?) the world and people do not follow the logic. We are still upset when not getting good results, even though we didn't make anything for it, and we are happy when achieving something, even when we paid the full price for it with our time and our work.
-
-ациональное поведение по определению преследует какую то цель, и если этой цели нет, мы не можем говорить о том, рациональны наши действия или нет. 
-
-Мы всегда стремимся к наивысшему благу, и получается, разделяя поведение на рац. и чув. и ведя себя рационально, мы просто ограничиваем одни свои желания в пользу других, более глобальных. И получается что вся наша рациональность упирается в большую чувственность и большие желания. 
-Есть ли смысл отбросить сотню желаний ради одного? Окупит ли это себя?
