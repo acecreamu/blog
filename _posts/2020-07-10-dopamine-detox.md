@@ -10,6 +10,9 @@ share: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9QiE-M1LrZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
+
 I saw this video on dopamine detox and this seemingly familiar topic, surprisingly, made me think a lot. Here I want to order my thoughts a little. 
 
 To remind, the point is to have short periods in life when you voluntarily don't get any dopamine, which decreases your tolerance to it and makes boring things brighter. Tolerance to dopamine is what stuck in my mind. **If we get used to any amount of dopamine in our lives, why try to increase it at all?** Moreover, having a lot of dopamine in life makes your tolerance high which makes you pretty much addicted to dopamine like to drugs. You will need to have more and more positive things in life just to feel okay, while normal things will make you unhappy, and what to talk about negative things! So you will feel just normal, all while spending lots of time and effort for entertainment, and while being so sensitive to difficulties that the smallest problem could destroy you. 
