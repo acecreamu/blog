@@ -11,6 +11,7 @@ share: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9QiE-M1LrZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+---
 
 
 I saw this video on dopamine detox and this seemingly familiar topic, surprisingly, made me think a lot. Here I want to order my thoughts a little. 
